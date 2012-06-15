@@ -74,3 +74,4 @@ Started GET "/assets/home.css?body=1" for 127.0.0.1 at 2012-06-15 10:41:59 +0200
 Served asset /home.css - 200 OK (1ms)
 Connecting to database specified by database.yml
 Connecting to database specified by database.yml
+Connecting to database specified by database.yml
