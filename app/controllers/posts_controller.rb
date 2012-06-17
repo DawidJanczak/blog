@@ -1,5 +1,8 @@
 
 class PostsController < ApplicationController
+
+  http_basic_authenticate_with name: "gat", password: "gat", except: [:index, :show]
+
   # GET /posts
   # GET /posts.json
   def index
