@@ -38,3 +38,5 @@ gem 'jquery-rails'
 # gem 'debugger'
 
 gem "pry-rails", group: :development
+
+gem "haml"
